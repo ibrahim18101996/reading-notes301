@@ -1,7 +1,7 @@
 # reading-notes301
 classes    | links
 -----------| -------------
-class01.md |(link)()
+class01.md |(link)(https://ibrahim18101996.github.io/reading-notes301/class01)
 class02.md |(link)()
 class03.md |(link)()
 class04.md |(link)()
